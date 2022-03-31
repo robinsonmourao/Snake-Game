@@ -6,7 +6,7 @@ public class SnakeGameMain {
 		Matriz matriz = new Matriz();
 		
 		matriz.escreverMatriz();
-
+		//volta pra ca
 	}
 
 }

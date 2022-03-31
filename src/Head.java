@@ -1,5 +1,5 @@
 
 public class Head {
 	
-	private int valor = 0;
+	private int valor = 1;
 }

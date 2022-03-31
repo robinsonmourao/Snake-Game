@@ -8,14 +8,14 @@ public class Body {
 	public void increaseBody(){
 		for(int k = 0; listaDeBody.size()<k;k++) {
 			if(listaDeBody.size()==(k)) {
-				listaDeBody.add(this.body);
+				listaDeBody.add(this);
 			}					
 		}		
 	}
 	public void decreaseBody() {
 		for(int k=0; listaDeBody.size()<k;k++) {
-			if(listaDeBody.get(k)==(this.body)) {
-				listaDeBody.remove(this.body);
+			if(listaDeBody.get(k)==(this)) {
+				listaDeBody.remove(this);
 			}
 		}
 	}	
