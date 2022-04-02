@@ -1,3 +1,4 @@
+package snakeGamePackage;
 
 public class Food {
 	

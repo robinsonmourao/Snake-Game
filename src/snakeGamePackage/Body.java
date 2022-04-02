@@ -1,3 +1,4 @@
+package snakeGamePackage;
 import java.util.ArrayList;
 
 public class Body {
